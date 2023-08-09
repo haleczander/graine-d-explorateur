@@ -1,0 +1,18 @@
+# Le jeu
+GAME_NAME="Graine d'Explorateur"
+
+# Les paramètres de la fenêtre
+WIN_WIDTH=800
+WIN_HEIGHT=600
+WIN_SIZE= (WIN_WIDTH, WIN_HEIGHT)
+FPS=60
+
+# Les paramètres du jeu
+TILE_SIZE=32
+FILL="black"
+PLAYER_WIDTH=20
+PLAYER_HEIGHT=40
+PLAYER_FILL="red"
+PLAYER_SPEED=TILE_SIZE/10
+
+PLAYER_LAYER=1
